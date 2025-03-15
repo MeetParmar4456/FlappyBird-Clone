@@ -5,5 +5,3 @@ Concepts Used: Event Handling, Game Loop, Timer, KeyListener
 To Run :
 - Clone the repo or ZIP download it,
 - Compile & Run the 'App' java file.
-"# FlappyBird-Clone" 
-"# FlappyBird-Clone" 
